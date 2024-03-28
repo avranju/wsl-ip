@@ -1,3 +1,3 @@
 # wsl-ip
 
-A small tool to prin the Windows WSL IP address. That's it.
+A small tool to print the Windows WSL IP address. That's it.
